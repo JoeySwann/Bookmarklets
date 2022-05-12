@@ -1,7 +1,7 @@
 <div id="top"></div>
 <br />
 <div align="center">
-    <img src="https://villainsrule4000.github.io/BookmarkletsTesting/bookmark.png" alt="Logo" width="200" height="200">
+    <img src="https://villainsrule4000.github.io/Bookmarklets/bookmark.png" alt="Logo" width="200" height="200">
   <h1 align="center">The ULTIMATE BOOKMARKLET COLLECTION</h1>
 
   <p align="center">
