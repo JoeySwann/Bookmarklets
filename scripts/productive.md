@@ -14,15 +14,6 @@ THE NOTEPAD IS ACTUALLY SUPPORTED BY A CERTAIN WEBSITE. THAT WEBSITE MAY BE ABLE
 ### Get Window Size
     javascript:alert('Window inner dimensions:\n\n   '+document.body.clientWidth+' x '+document.body.clientHeight)
 
-### Password Manager
-Wow, this one blew my mind. It's a little hard to explain, so I'll do my best!<br>
-This is like a password manager (duh). You visit the page of a website. THE SUBDOMAIN MATTERS. If a page changes one letter of the URL, you might be in trouble.<br>
-You open the manager, and, for the first time, you pick a HARD TO GUESS master password.<br>
-When signing up, you put the master password in, and it gives you a random password.<br>
-When you log in, you put the master password in again, and it gives you the same password.<br>
-Different master passwords yield different results.
-
-
 ### "Quicksandify"
 This one is nice by making SOME text on a webpage in the font Quicksand and doing a few other things.<br>
 On the wrong site, it's a page destoryer. If you want a better simplifier, try [this](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod?hl=en).
