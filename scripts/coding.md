@@ -16,8 +16,5 @@ _Insert the script into the 'http://SCRIPT-URL/SCRIPT.JS'_<br>
 ### Remove Cookies
     javascript: (function() {C = document.cookie.split("; ");for (d = "." + location.host; d; d = ("" + d).substr(1).match(/\..*$/))for (sl = 0; sl < 2; ++sl)for (p = "/" + location.pathname; p; p = p.substring(0, p.lastIndexOf('/')))for (i in C)if (c = C[i]) {document.cookie = c + "; domain=" + d.slice(sl) + "; path=" + p.slice(1) + "/" + "; expires=" + new Date((new Date).getTime() - 1e11).toGMTString()}})()
 
-### View Cookies
-Removed for issues
-
 ### View Source
     javascript: function getSelSource() {x = document.createElement("div");x.appendChild(window.getSelection().getRangeAt(0).cloneContents());return x.innerHTML;}function makeHR() {return nd.createElement("hr");}function makeParagraph(text) {p = nd.createElement("p");p.appendChild(nd.createTextNode(text));return p;}function makePre(text) {p = nd.createElement("pre");p.appendChild(nd.createTextNode(text));return p;}nd = window.open().document;ndb = nd.body;if (!window.getSelection || !window.getSelection().rangeCount || window.getSelection().getRangeAt(0).collapsed) {nd.title = "Generated Source of: " + location.href;ndb.appendChild(makeParagraph("No selection, showing generated source of entire document."));ndb.appendChild(makeHR());ndb.appendChild(makePre("<html>\n" + document.documentElement.innerHTML + "\n</html>"));} else {nd.title = "Partial Source of: " + location.href;ndb.appendChild(makePre(getSelSource()));};void 0
