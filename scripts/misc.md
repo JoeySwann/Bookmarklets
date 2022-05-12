@@ -21,9 +21,6 @@ DON'T TRY IT unless you are VERY CAREFUL.
 
     javascript:while (true) { window.location.reload(true); };
 
-### No Color
-    javascript: (function() {var newSS, styles = '* { background: white ! important; color: black !important } :link, :link * { color: #0000EE%20!important%20}%20:visited,%20:visited%20*%20{%20color:%20#551A8B%20!important%20}';if%20(document.createStyleSheet)%20{document.createStyleSheet(%22javascript:'%22%20+%20styles%20+%20%22'%22);}%20else%20{newSS%20=%20document.createElement('link');newSS.rel%20=%20'stylesheet';newSS.href%20=%20'data:text/css,'%20+%20escape(styles);document.getElementsByTagName(%22head%22)[0].appendChild(newSS);}})();
-
 ### Popup Window [Template]
 _Place URL in the spot 'Insert URL here'._
 
