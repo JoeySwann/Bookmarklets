@@ -15,12 +15,6 @@ _Place URL in the spot 'Insert URL here'._
 
     javascript:var frame = document.createElement('iframe'); frame.src="Insert URL here"; frame.style.position="fixed"; frame.style.top="0%"; frame.style.right="0%"; frame.style.height="600px"; frame.style.width="1300px"; frame.style.zIndex="100000"; document.body.appendChild(frame); var btn= document.createElement("button"); btn.style.position="fixed"; btn.style.top="5%"; btn.style.right="25%"; btn.zIndex="100000"; innerHTML="HIDE"; document.body.appendChild(btn);
 
-### Freeze
-This breaks the computer in various ways.<br>
-DON'T TRY IT unless you are VERY CAREFUL.
-
-    javascript:while (true) { window.location.reload(true); };
-
 ### Popup Window [Template]
 _Place URL in the spot 'Insert URL here'._
 
