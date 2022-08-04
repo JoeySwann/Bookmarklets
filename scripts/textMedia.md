@@ -8,9 +8,6 @@
 ### Change Font
     javascript:void(document.body.style.fontFamily=prompt("Pick a font. Complex fonts won't work.",""))
 
-### Check Text Details
-    javascript: void((function(d) {    var e = d.createElement('script');    e.setAttribute('type', 'text/javascript');    e.setAttribute('charset', 'UTF-8');    e.setAttribute('src', '//www.typesample.com/assets/typesample.js?r=%27%20+%20Math.random()%20*%2099999999);%20%20%20%20d.body.appendChild(e)})(document));
-
 ### Edit Content
 _Note: some text is actually an image, so don't complain this doesn't work._<br>
 To EDIT content:
