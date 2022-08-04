@@ -13,7 +13,7 @@
     <a href="https://villainsrule4000.github.io/Bookmarklets/scripts/pageDestroyers">Page Destroying scripts</a><br>
     <a href="https://villainsrule4000.github.io/Bookmarklets/scripts/productive">Productive scripts</a><br>
     <a href="https://villainsrule4000.github.io/Bookmarklets/scripts/textMedia">Text/Media scripts</a><br>
-    <a href="https://villainsrule4000.github.io/Bookmarklets/scripts/webSearch">Web Search scripts</a><br>
+    <a href="https://villainsrule4000.github.io/Bookmarklets/scripts/webSearches">Web Search scripts</a><br>
   </p>
   <br>
   <br>
@@ -27,4 +27,3 @@
     6. Click 'Save'.<br>
     7. Click the bookmark when you want to use it.
   </p>
-</div>
